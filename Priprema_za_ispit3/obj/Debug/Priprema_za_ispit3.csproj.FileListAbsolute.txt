@@ -1,0 +1,8 @@
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\bin\Debug\Priprema_za_ispit3.exe.config
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\bin\Debug\Priprema_za_ispit3.exe
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\bin\Debug\Priprema_za_ispit3.pdb
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\obj\Debug\Priprema_za_ispit3.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\obj\Debug\Priprema_za_ispit3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\obj\Debug\Priprema_za_ispit3.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\obj\Debug\Priprema_za_ispit3.exe
+C:\Users\Lovro\source\repos\Priprema_za_ispit3\Priprema_za_ispit3\obj\Debug\Priprema_za_ispit3.pdb
